@@ -1,5 +1,5 @@
 # Sorting-Visualizer
-Visualize how various Sorting Algorithms work using Python (tkinter). This project you'll visualize how different sorting algorithms work.
+Visualize how various Sorting Algorithms work using Python (Tkinter). This project you'll visualize how different sorting algorithms work.
 We'll see how rectangular bars of different lengths are sorted using various sorting techniques. We can Shuffle the bars by clicking 'Shuffle' button.
 In this project I have implemented three sorting algorithms - Bubble Sort, Selection Sort, Insertion Sort.
 
